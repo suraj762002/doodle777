@@ -1,0 +1,44 @@
+body{
+	background-image: url(https://images.pexels.com/photos/132197/pexels-photo-132197.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+h2{
+	text-decoration: underline;
+	font-family: Arial;
+	font-size: 27px;
+	position: relative;
+	top: 60px;
+	
+}
+ol{
+	font-family: Arial;
+	position: relative;
+	top: 80px;
+	font-size: 20px solid;
+	font-weight: bold;
+}
+.button{
+	position: relative;
+	bottom: -110px;
+	right: -30px;
+	background: black;
+	color: white;
+	font-family: Arial;
+	font-size: 15px;
+	border: 5px solid black;
+	padding: 1px;
+	margin: 10x;
+}
+.img{
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+}
+a{
+	text-decoration: none;
+}

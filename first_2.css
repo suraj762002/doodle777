@@ -1,0 +1,43 @@
+body{
+	background-image: url(https://images.pexels.com/photos/132197/pexels-photo-132197.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	font-family: arial;
+	
+
+}
+p{
+	font-family: Arial;
+	color: black;
+	
+}
+.column{
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+
+}
+.row::after{
+	content: "";
+	display: table;
+	clear: both;
+}
+{
+	box-sizing: border-box
+}
+hr{
+	color: black;
+}
+h3{
+	font-family: Arial;
+	font-size: 25px;
+}
+.ol{
+	font-size: 30px;
+}
+h3{
+	text-decoration: underline;
+}
